@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Jz7eUZut4DSl04bz2q/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2djZ2Zxcng3N3ViOTkycWsxOGV6bGIwY3owMXlkczdhbXpjaml2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif" width="300"/>
 </div>
 
 ## 👩‍💻 About Me
@@ -22,8 +22,5 @@
 <div id="badges">
   <a href="https://www.linkedin.com/in/heloisabal/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-
-https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg
-  
+  </a>  
 </div>
