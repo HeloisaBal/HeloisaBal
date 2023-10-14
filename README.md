@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/Jz7eUZut4DSl04bz2q/giphy.gif" width="200"/>
 </div>
 
-### Hi there, I am Heloisa! 👋
+## 👩‍💻 About Me
 
 - 📊 Data Analytics Enthusiast | 🚀 Tech Operations Professional
 - 💻 Junior Data Analyst
