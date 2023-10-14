@@ -11,3 +11,7 @@
 - 💬 I speak English (fluent), Spanish and Portuguese natively and French (conversational)
 - 📫 How to reach me: heloisa.bal.work@gmail.com
 
+<div id="badges">
+  <a href="www.linkedin.com/in/heloisabal">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
