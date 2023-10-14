@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGJ4bzR2ZWphaDR5amk2amkxdTRuMXMyMDEwcWh2a2d0d2dxdnN6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HUplkVCPY7jTW/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/Jz7eUZut4DSl04bz2q/giphy.gif" width="100"/>
 </div>
 
 - 📊 Data Analytics Enthusiast | 🚀 Tech Operations Professional
