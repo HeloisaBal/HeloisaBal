@@ -9,6 +9,5 @@
 - 📍 Half Belgian, Half Brazilian living in Lisbon
 - 👨🏼‍🎓 Background in Business Management and International Relations
 - 💬 I speak English (fluent), Spanish and Portuguese natively and French (conversational)
-- ⚡ Fun fact: I have lived in 8 different countries
 - 📫 How to reach me: heloisa.bal.work@gmail.com
 
