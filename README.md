@@ -26,7 +26,7 @@
 
 - ## 🔗 Let's connect!
 <div id="badges">
-  <a href="[www.linkedin.com/in/heloisabal](https://www.linkedin.com/in/heloisabal/)">
+  <a href="(https://www.linkedin.com/in/heloisabal/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
