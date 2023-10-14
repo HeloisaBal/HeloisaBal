@@ -11,7 +11,19 @@
 - 💬 I speak English, Spanish, Portuguese and French
 - 📫 How to reach me: heloisa.bal.work@gmail.com
 
-<div id="badges">
-  <a href="www.linkedin.com/in/heloisabal">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div>
+## ⚙ Languages and Tools
+- Python
+- Jupyter
+- VSCode
+- MySQL
+- PostgreSQL
+- Microsoft Office / Gsheets
+- Tableau
+- Git
+- Trello
+- Canva
+- Beautiful Soup
+
+- ## 🔗 Let's connect!
+
+    
