@@ -9,7 +9,7 @@
 - 📊 Data Analytics Enthusiast | 🚀 Tech Operations Professional
 - 💻 Junior Data Analyst
 - 👨‍🏫 Background in Performance and Operations Management
-- 👨🏼‍🎓 MsC in Management and BA in International Relations in 🇸🇪
+- 👨🏼‍🎓 MsC in Management and BA in International Relations in Sweden
 - 📍 Half Belgian, Half Brazilian living in Lisbon
 - 💬 I speak English, Spanish, Portuguese and French
 - 📫 Reach me at: heloisa.bal.work@gmail.com
