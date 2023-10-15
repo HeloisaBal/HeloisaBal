@@ -8,7 +8,8 @@
 
 - 📊 Data Analytics Enthusiast | 🚀 Tech Operations Professional
 - 💻 Junior Data Analyst
-- 👨🏼‍🎓 Background in Business Management and International Relations
+- 👨‍🏫 Background in Performance and Operations Management
+- 👨🏼‍🎓 Management, Organization and Society and International Relations
 - 📍 Half Belgian, Half Brazilian living in Lisbon
 - 💬 I speak English, Spanish, Portuguese and French
 - 📫 Reach me at: heloisa.bal.work@gmail.com
@@ -28,7 +29,7 @@
   
 </div>
 
-- ## 🔗 Let's connect!
+- ## 🤝 Let's connect!
 <div id="badges">
   <a href="https://www.linkedin.com/in/heloisabal/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
