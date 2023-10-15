@@ -9,7 +9,7 @@
 - 📊 Data Analytics Enthusiast | 🚀 Tech Operations Professional
 - 💻 Junior Data Analyst
 - 👨🏼‍🎓 Background in Business Management and International Relations
-- - 📍 Half Belgian, Half Brazilian living in Lisbon
+- 📍 Half Belgian, Half Brazilian living in Lisbon
 - 💬 I speak English, Spanish, Portuguese and French
 - 📫 How to reach me: heloisa.bal.work@gmail.com
 
