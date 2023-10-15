@@ -20,6 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" **alt="Jupyter" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="80" height="80"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack" **alt="Slack" width="80" height="80"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Visual Studio Code" **alt="Visual Studio Code" width="90" height="90"/>
 </div>
 
 - ## 🔗 Let's connect!
