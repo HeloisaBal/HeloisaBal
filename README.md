@@ -11,10 +11,7 @@
 - 👨🏼‍🎓 Background in Business Management and International Relations
 - 📍 Half Belgian, Half Brazilian living in Lisbon
 - 💬 I speak English, Spanish, Portuguese and French
- - 📫: <a href="mailto:heloisa.bal.work@gmail.com" style="display: inline-block; vertical-align: middle; margin-left: 5px;">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" style="vertical-align: middle; margin-top: 2px; width: 60px; height: 20px;" />
-  </a>
-</p>
+- 📫 Reach me at: heloisa.bal.work@gmail.com
 
 
 ## ⚙ Languages and Tools
