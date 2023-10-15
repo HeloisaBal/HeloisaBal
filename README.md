@@ -25,6 +25,8 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" **alt="Trello" width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VS" **alt="VS" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Google" **alt="Google" width="40" height="40"/>
+  
 </div>
 
 - ## 🤝 Let's connect!
