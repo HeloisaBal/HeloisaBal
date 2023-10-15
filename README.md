@@ -1,8 +1,8 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalam&size=38&pause=1000&color=FF69B4&center=true&width=1000&height=60&lines=Hi!+I'm+Heloisa+and+I'm+a+Data+Analyst." alt="Typing SVG" />
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2djZ2Zxcng3N3ViOTkycWsxOGV6bGIwY3owMXlkczdhbXpjaml2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif" width="250"/>
 </div>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kalam&size=38&pause=1000&color=FF69B4&center=true&width=1000&height=60&lines=Hi!+I'm+Heloisa+and+I'm+a+Data+Analyst." alt="Typing SVG" />
 
 ## 👩‍💻 About Me
 
