@@ -11,7 +11,7 @@
 - 👨‍🏫 Background in Performance and Operations Management
 - 👨🏼‍🎓 MsC in Management and BA in International Relations in Sweden
 - 📍 Half Belgian, Half Brazilian living in Lisbon
-- 💬 I speak English, Spanish, Portuguese and conversational French
+- 💬 I speak English (C1), Spanish, Portuguese fluently and conversational French
 - 📫 Reach me at: heloisa.bal.work@gmail.com
 
 
